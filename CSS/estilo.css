@@ -1,10 +1,24 @@
 body{
-    background-color: lightskyblue;
+    background-color: #9099A2;
+    font-family: calibri;
+    color:#9099A2;
+    
 }
+
 .col{
-    background-color: white;
+    background-color: #D5D5D5;
+    
 }
 .container{
     margin-top:20px;
     border-radius: 15px;
 }
+.p1{
+     font-family: calibri;
+     color:#96858F;
+}
+.p2{ 
+    font-family:corsive;
+} 
+
+
